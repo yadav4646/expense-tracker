@@ -1,0 +1,12 @@
+.dashboard-info-section {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 40px;
+}
+
+.dashboard-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
